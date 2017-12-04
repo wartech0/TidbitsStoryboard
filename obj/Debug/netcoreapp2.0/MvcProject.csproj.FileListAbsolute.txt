@@ -1,0 +1,10 @@
+/home/lex/Documents/MvcProject/bin/Debug/netcoreapp2.0/MvcProject.deps.json
+/home/lex/Documents/MvcProject/bin/Debug/netcoreapp2.0/MvcProject.runtimeconfig.json
+/home/lex/Documents/MvcProject/bin/Debug/netcoreapp2.0/MvcProject.runtimeconfig.dev.json
+/home/lex/Documents/MvcProject/bin/Debug/netcoreapp2.0/MvcProject.dll
+/home/lex/Documents/MvcProject/bin/Debug/netcoreapp2.0/MvcProject.pdb
+/home/lex/Documents/MvcProject/obj/Debug/netcoreapp2.0/MvcProject.csproj.CoreCompileInputs.cache
+/home/lex/Documents/MvcProject/obj/Debug/netcoreapp2.0/MvcProject.AssemblyInfoInputs.cache
+/home/lex/Documents/MvcProject/obj/Debug/netcoreapp2.0/MvcProject.AssemblyInfo.cs
+/home/lex/Documents/MvcProject/obj/Debug/netcoreapp2.0/MvcProject.dll
+/home/lex/Documents/MvcProject/obj/Debug/netcoreapp2.0/MvcProject.pdb
